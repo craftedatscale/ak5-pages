@@ -1,0 +1,10 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Dr. Anandana Kapur</title>
+        <link>http://anandanakapur.com/</link>
+        <description>Dr. Anandana Kapur</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>contact.anandana@gmail.com (Dr. Anandana Kapur)</managingEditor>
+            <webMaster>contact.anandana@gmail.com (Dr. Anandana Kapur)</webMaster><copyright>Dr. Anandana Kapur</copyright><lastBuildDate>Sun, 27 Jul 2025 17:14:51 &#43;0530</lastBuildDate>
+            <atom:link href="http://anandanakapur.com/index.xml" rel="self" type="application/rss+xml" />
+        </channel>
+</rss>
