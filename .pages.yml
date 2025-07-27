@@ -20,7 +20,7 @@ content:
         type: select
         options:
           multiple: true
-          values: [ test456, test789, test012]
+          values: [ tag1, tag2, tag3]
           creatable: true
       - name: categories
         label: Categories
@@ -39,3 +39,13 @@ content:
     label: Projects
     type: collection
     path: content/projects
+  - name: about
+    label: About
+    type: file
+    path: content/about.md
+    fields:
+      - {name: lastmod, label: Last Modified, type: date}
+      - {name: image, label: Image, type: image}
+      - {name: body, label: Body, type: rich-text}
+      - {name: lightgallery, label: Light Gallery, type: boolean, default: true, hidden: true}
+      - {name: fontawesome, label: Font Awesome, type: boolean, default: true, hidden: true}
