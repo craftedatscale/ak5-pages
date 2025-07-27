@@ -1,0 +1,4 @@
+---
+lightgallery: true
+fontawesome: true
+---
