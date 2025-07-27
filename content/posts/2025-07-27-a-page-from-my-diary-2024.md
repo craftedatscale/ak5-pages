@@ -1,7 +1,7 @@
 ---
 title: "A Page from My Diary: 2024"
 date: 2025-07-27
-draft: true
+draft: false
 hiddenFromHomePage: false
 hiddenFromSearch: false
 tags:
@@ -17,7 +17,6 @@ categories:
 lightgallery: true
 fontawesome: true
 ---
-  
 _Also posted on my_ [_LinkedIn_](https://www.linkedin.com/posts/anandana-kapur-13b83a6_artistatthetable-art-democracy-activity-7279821639985360896-09Mk)_._  
 _\__
 
