@@ -1,8 +1,16 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>All Posts - Dr. Anandana Kapur</title>
-        <link>http://anandanakapur.com/posts/</link>
+        <link>http://192.168.0.247:1313/posts/</link>
         <description>All Posts | Dr. Anandana Kapur</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>contact.anandana@gmail.com (Dr. Anandana Kapur)</managingEditor>
-            <webMaster>contact.anandana@gmail.com (Dr. Anandana Kapur)</webMaster><copyright>Dr. Anandana Kapur</copyright><lastBuildDate>Sun, 27 Jul 2025 17:14:51 &#43;0530</lastBuildDate><atom:link href="http://anandanakapur.com/posts/" rel="self" type="application/rss+xml" /></channel>
+            <webMaster>contact.anandana@gmail.com (Dr. Anandana Kapur)</webMaster><copyright>Dr. Anandana Kapur</copyright><lastBuildDate>Sun, 27 Jul 2025 17:14:51 &#43;0530</lastBuildDate><atom:link href="http://192.168.0.247:1313/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>My First Test Post</title>
+    <link>http://192.168.0.247:1313/my-first-test-post/</link>
+    <pubDate>Sun, 27 Jul 2025 17:14:51 &#43;0530</pubDate>
+    <author>Dr. Anandana Kapur</author>
+    <guid>http://192.168.0.247:1313/my-first-test-post/</guid>
+    <description><![CDATA[]]></description>
+</item>
+</channel>
 </rss>
