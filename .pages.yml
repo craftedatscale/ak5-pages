@@ -44,6 +44,7 @@ content:
     type: file
     path: content/about.md
     fields:
+      - {name: draft, label: Draft, type: boolean, default: false}
       - {name: lastmod, label: Last Modified, type: date}
       - {name: image, label: Image, type: image}
       - {name: body, label: Body, type: rich-text}
