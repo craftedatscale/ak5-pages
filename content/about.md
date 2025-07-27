@@ -4,6 +4,8 @@ lastmod: 2025-07-27
 lightgallery: true
 fontawesome: true
 ---
+# About
+
 Dr. Anandana Kapur is a seasoned professional specializing in art, culture, and tech policy, with a particular focus on inclusive AI and ethics in immersive media. She has designed and led impactful initiatives related to social justice, gender mobility, and creative innovation.
 
 Throughout her career, she has directed and produced numerous acclaimed documentaries addressing pressing issues such as environmental justice, gender equality, and social inclusion. Her work has been showcased at renowned festivals worldwide. Dr. Kapur is also the founder-director of a media literacy and digital storytelling studio.
